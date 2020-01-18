@@ -53,8 +53,42 @@ Es gibt 4 Arten von Projektorganisationsformen:
      * wenn viele oder bestqualifizierte Mitarbeiter aus der LInienorganisation für Projekte hergenommen, besteht die Gefahr, dass die Verrichtung der Linie darunter leidet
      * => Abteilungen werden nicht die besten Mitarbeiter freistellen, sondern eher Mittelmäßige. Das bedeutet Risiko für das Projekt
 2. Einflussprojektorganisation
+   * eine möglichst geringe organisatorische Änderung innerhalb der LLinienorganisation ist erwünscht
+   * wird auch als Stabs-Projektorganisation bezeichnet - weil die Projektleitung in kompetenzmäig abgeschwächter Form als Projektkoordination im Rahmen einer Stabsstelle der Linienorganistation erfüllt wird
+   * alle Mitglieder bleiben in der funktionalen Hierarchie des Unternehmens - sie erledigen ihre normalen Aufgaben und die Projektaufgaben gleichzeitig
+   * der Projektleiter plant den Projektablauf und überwacht ihn(Termine, fachliches, und finanziell)
+   * der Projektkoordinator hat keine formalen Entscheidungs- und Weisungskompetenzen
+   * Einsatzbereiche: 
+     * gut strukturierte Projekte, welche repetitiv sind
+     * Projekte mit geringem Umfang, wenig Risiko und geringem Innovationsgrad
+   * Vorteile:
+     * geringer Organisationsaufwand
+     * personelle Kapazität der Mitarbeiter kann flexibel ausgelastet werden
+     * gleichzeitige Abwicklung mehrerer Projekte ist möglich
+   * Nachteile/Probleme: 
+     * Bindung der Mitarbeiter an die Abteilung ist stärker als die Identifikation mit dem Projekt -> Abteilungsübergreifende Problemlösungen werden erschwert
+     * Der Projektkoordinator trägt Verantowrtung für den Projekterfolg, ihm fehlen aber die formalen Kompetenzen den Projektverlauf durch Anweisungen direkt zu beeinflussen
+     * Probleme zwischen Koordinator und Mitglieder muss über die vorgesetzte Stelle ablaufen -> verringert Bereitschaft zur Konfliktlösung
+     * Lösung eines Konfliktes belastet auch die vorgesetzte Stelle und bewirkt eine Verzögerung des Projekts
+     * ist wenig Kundenorientiert
 3. Matrixprojektorganisation
+   * Mitarbeiter erhalten von zwei Vorgesetzten Anweisungen 
+   * zwischen funktionalem Vorgesetzten und Projektleiter besteht eine Teilung der Kompetenzen:
+     * Projektleiter -> bestimmt das Ziel und die zu erbringende Leistung, die zur verfügung stehende Mittel und die Termine
+     * der funktionale Vorgesetzte legt fest, welcher Mitarbeiter der Abteilung die Projektaufgabe übernimmt, mit welchen Mitteln und Methoden er diese durchführt und welche Qualität das Ergebnis haben soll
+   * Beide sollten nicht alleine Entscheiden dürfen
+   * Einsatzbereiche: 
+     * parallele Durchführung mehrerer Projekte
+     * Projekte bei denen der Koordinationsaufwand für eine Einfluss-Projektorganisation zu hoch ist und eine Task-Force nicht möglich ist
+   * Vorteile: 
+     * Projektmanager hat die Kompetenz zur direkten Verfolgung der Projektziele
+     * für Multi-Projektmanagement gut geeignet
+     * Einsatz von Spezialistenwissen ist möglich
+     * Projektmitarbeiter werden nicht aus ihrer Abteilung gerissen
+     * frühe Erkennung von Konfliktpunkten ist möglich
+   * Nachteile/Probleme: 
+     * kommt zu einer hohen Wahrscheinlichkeit zu Konflikten
+     * Kompetenzprobleme zwischen Projektleiter und funktionalem Vorgesetzten auftreten
+     * Mitarbeiter können Projektleiter und funktionalen Vorgesetzten gegeneinander ausspielen, um sich Vorteile zu verschaffen
+
 4. projektorientierte Teilorganisation
-#### Vor-/Nachteile und Probleme: 
-##### reine Projektorganisation(Task-Force)
-* 
