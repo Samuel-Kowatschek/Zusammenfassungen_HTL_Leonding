@@ -26,3 +26,17 @@
 * Dienstleistungsgeschäft: Zahlungsverkehr im In-/Ausland, Verwahrung(Schließfächer, Wertpapierdepots), Handel(Wertpapiere)
 * Eigengeschäft: zb Immobilien erwerben
 
+#### b) Bei der statischen Kreditprüfung wird von den Kreditinstituten festgestellt, ob der Kreditwerber gegenwärtig kreditfähig ist. Wovon wird eine solche Kreditfähigkeit abhängen?
+* Sicherheiten und derzeitige Vermögenslage
+
+### Frage 3
+#### a) Welche drei tpyischen Einbidnungsmäglichkeiten in ein größeres Vertriebssystem bestehen grundsätzlich für Einzelhandelsbetriebe?
+* Handelsketten
+* Franchisesysteme
+* Verbundgruppen
+* unabhängiger Einzelhändler
+#### b) Führe drei grundsätzliche Kriterien für eine optimale Standortwahl an, welche ein Einzelhändler wählen wird.
+* Konkurrenz als Standortfaktor(als negativer oder positiver Standortfaktor)
+* Verkehr
+* Nähe der Abnehmer
+* Raumkosten
