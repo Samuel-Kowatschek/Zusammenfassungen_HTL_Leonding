@@ -31,3 +31,30 @@ Aufgabe ist, möglichst früh einen hohen Wissenstand aller Beteiligten zu errei
     * Projektkommunkation einreichten
   * Maximal 15 der wichtigsten Projektbeteiligten sollten teilnehmen. Ein externer Berater sollte moderieren. Oft wird auch ein *Kick-off-Meeting* durchgeführt. Es kennzeichnet den Projektstart. 
 
+### Organisationsformen
+Es gibt 4 Arten von Projektorganisationsformen: 
+1. reine Projektorganisation(Task-Force)
+   * alle Mitarbeiter sind  verantwortlich
+   * während der Projektdauer sind Mitarbeiter ihren Vorgesetzten nicht unterstellt
+   * Projektleiter verantwortet Projekt nach außen
+   * Einsatzbereiche: 
+     * umfangreiche, lange Projekte
+     * Projekte mit hoher strategischer Bedeutung für das Unternehmen
+     * Projekte mit hoher technologischer Komplexität
+     * zeitkritische oder unter Zeitdruck stehende Projekte
+   * Vorteile: 
+     * rasche Problemlösung
+     * Konzentration der Beteiligten auf die Durchführung ist gut möglich
+     * eindeutige Regelung von Kompetenzen und Aufgaben des Projektleiters
+   * Nachteile und Probleme:
+     * Mitarbeiter sind meist über die gesamte Projektdauer Mitglieder der Projektgruppe; die Auslastung der Personalressource ist daher meist nicht optimal
+     * besonders bei langen Projekten stellt die Wiedereingliederung der Mitglieder in die Linienorganisation ein Problem dar. Die ehemaligen Funktionen könnten neubesetzt worden sein
+     * Mitglieder benötigen evtl. Infos aus ihrer Stammabteilung. Das könnte als Störung empfunden werden
+     * wenn viele oder bestqualifizierte Mitarbeiter aus der LInienorganisation für Projekte hergenommen, besteht die Gefahr, dass die Verrichtung der Linie darunter leidet
+     * => Abteilungen werden nicht die besten Mitarbeiter freistellen, sondern eher Mittelmäßige. Das bedeutet Risiko für das Projekt
+2. Einflussprojektorganisation
+3. Matrixprojektorganisation
+4. projektorientierte Teilorganisation
+#### Vor-/Nachteile und Probleme: 
+##### reine Projektorganisation(Task-Force)
+* 
