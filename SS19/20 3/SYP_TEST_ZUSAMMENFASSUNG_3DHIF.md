@@ -1,8 +1,8 @@
 # SYPTEST
-## Jahr 3/Semester 1/Test 2
-## Lehrer -> Hammer
-## Fach -> Syp
-> Zusammenfassung des Teststoffes. Teststoff: 
+##### Jahr 3/Semester 1/Test 2
+##### Lehrer -> Hammer
+##### Fach -> Syp
+> Zusammenfassung des Teststoffes:
 > * Projektstart
 > * Organisationsformen (Vor-/Nachteile, Probleme)
 > * Phasen des Teambuildings
@@ -11,12 +11,12 @@
 > * Tasks
 > * Zeitplanung
 
-### Projektstart 
-#### Die Bedeutung und die verfolgten Ziele
+## Projektstart 
+### Die Bedeutung und die verfolgten Ziele
 Der Projektstart ist sehr wichtig für das Projekt, weil: 
 * Fehler in dieser Phase sind schwer korrigierbar
 * diese Phase beeinflusst das ganze Projekt sehr stark
-#### Aufgaben des Projektstarts
+### Aufgaben des Projektstarts
 Aufgabe ist, möglichst früh einen hohen Wissenstand aller Beteiligten zu erreichen, alle Bereiche vollständig zu klären und grundlegende Weichenstellungen für das Projekt vornehmen zu können.
 ### Die Formen des Projektstarts
 * Projekt-Start-up-Seminar: 
@@ -31,7 +31,7 @@ Aufgabe ist, möglichst früh einen hohen Wissenstand aller Beteiligten zu errei
     * Projektkommunkation einreichten
   * Maximal 15 der wichtigsten Projektbeteiligten sollten teilnehmen. Ein externer Berater sollte moderieren. Oft wird auch ein *Kick-off-Meeting* durchgeführt. Es kennzeichnet den Projektstart. 
 
-### Organisationsformen
+## Organisationsformen
 Es gibt 4 Arten von Projektorganisationsformen: 
 1. reine Projektorganisation(Task-Force)
    * alle Mitarbeiter sind  verantwortlich
@@ -92,3 +92,45 @@ Es gibt 4 Arten von Projektorganisationsformen:
      * Mitarbeiter können Projektleiter und funktionalen Vorgesetzten gegeneinander ausspielen, um sich Vorteile zu verschaffen
 
 4. projektorientierte Teilorganisation
+   * geeignet, wenn ein Projekt vorwiegend mit Mitarbeitern udn Ressourcen der eigenen Abteilung durchgeführt werden kann
+   * Projektleitung -> Unternehmensleitung => keine Änderung der Linienorganisation
+   * Einsatzbereiche: 
+     * Projekte mit fachlich eng abgestecktem Inhalt, wobei Bereichsübergreifende Zusammenarbeit nur gering Notwendig ist
+     * Projekte, bei welchen die Schnittstellen zwiscehn den Teilbereichen eindeutig definiert sind
+     * Projekte, welche aufgrund des erforderlichen Spezialwissens nur von einer bestimmten Abteilung durchgeführt werden können
+   * Vorteile: 
+     * geringer Organisationsaufwand
+     * eindeutige Kompetenzverhältnisse
+     * Möglichkeit zur Spezialisierung kann Produktivität & Qualität steigern
+   * Nachteile/Probleme: 
+     * bestehnde Konflikte/Probleme aus der Organisationsstruktur werden mitübernommen
+     * bei zu starkem Abteilungsdenken besteht die Gefahr, das Rad neu zu erfinden -> Chancen für bessere bereichsübergreifende Lösungen bleiben ungenutzt
+     * bei gleichzeitiger Durchführung von Projekten mit Matrix- oder Einflussorganisation werden die Projektmitarbeiter abteilungsinterne Projekte vorziehen
+### Auswahl der geeigneten Organisationsform
+Unter anderem sind folgende Kriterien geeignet:
+* Dauer
+* Umfang
+* Innovationsgrad
+* Komplexität
+* Schwierigkeit
+* Risiko
+* Kosaten
+* Bedeutung
+* ANzahl
+* Kontinuität
+* Intensität
+
+Liegen die Kriterien eher im niedrigen Bereich (also niedrige Dauer, wenig Kosten, ...), so ist das Einfluss-Projektmanagement die beste Wahl. Liegen die Kriterien eher hoch (lange Dauer, großer Umfang, hohe Komplexität, ...) so ist das reine Projektmanagement die beste Wahl. 
+Sind die Kriterien eher mittendrin, so ist das Matrix-Projektmanagement die beste Wahl.
+
+Die projektorientierte Teilorganisation hängt von den Kriterien nicht ab. Die Entscheidung für diese Organisationsform orientiert sich daran, ob der Projektumfang im Rahmen der Teilorganisation durchgeführt werden kann.
+
+## Teambuilding
+### Phasen der Teambildung nach Tuckman
+* **Forming** bezeichnet den Vorgang des Kennenlernens. Regeln und Grenzen werden ausgetestet und Aufgaben, Regeln und Methoden werden definiert.
+*  **Storming** bezeichnet den Vorgang der Gruppenstrukturierung. Konflikte und Meinungen treten innerhalb des Teams auf, Aufgabenanforderungen werden emotional abgelehnt.
+*  Im **Norming** werden Konflikte bereinigt und Gruppennormen bilden sich aus. Kooperationen entstehen
+*  Beim **Performing**sind die Konflikte gelöst und es gibt eine funktionale Gruppenstruktur. Die Teammitglieder können ihre Energie für die Aufgabe verwenden
+*  **Adjourning/Mourning** ist die Auflösung des Teams.
+
+![Phasen Teambuilding](../../Media/Phasen_Teambuilding.png)
