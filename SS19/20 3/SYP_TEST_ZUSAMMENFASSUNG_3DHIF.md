@@ -134,3 +134,80 @@ Die projektorientierte Teilorganisation hängt von den Kriterien nicht ab. Die E
 *  **Adjourning/Mourning** ist die Auflösung des Teams.
 
 ![Phasen Teambuilding](../../Media/Phasen_Teambuilding.png)
+
+## Projektstrukturplan
+Der Projektstrukturplan ist das zentrale Strukturierungshilfsmittel im Projekt. Er ist eine wichtige Voraussetzung für: 
+* den Projektorganisationsplan
+* die Funktionen- & Verantwortungsmatrix
+* das Balkendiagramm und den Netzplan
+
+Man soll das Projekt in kleinere und schaffbare Arbeitspakete aufteilen. Der Projektstrukturplan steuert damit die Arbeitsteilung und die Zusammenfügung der Teilergebnisse zu einem Ganzen. 
+### Darstellungsformen
+
+Es gibt vier Darstellungsformen des Projektstrukturplans:
+* **objektorientiert:** Die strukturierung des Projekts richtet sich nach den einzelnen Bestandteilen des Produkts bzw nach Teilergebnissen im Projekt.
+* **Phasenorientiert:** Wenn ein streng sequentieller Projektablauf vorliegt, so kann die Strukturierung nach den einzelnen Phasen bzw. den Arbeitsschritten innerhalb der Phasen erfolgen.
+* **Tätigkeitsorientiert:** Die Strukturierung des Projekts erfolgt nach den durchzuführenden Arbeitsschritten.
+* **Gemischt:** Die Strukturierung in den einzelnen Ebenen der Projekthierarchie erfolgt nach unterschiedlichen Gesichtspunkten, z.B. vorerst objekt-, danach ablauforientiert. Innerhalb einer Projektstrukturebene des PSP darf aber nur ein einziges Zerlegungskriterium angewendet werden.
+
+### Arbeitspakete
+Dies ist die kleinste Untergliederung im Projektstrukturplan. An ihnen kann man
+* eine sinnvolle Arbeitsabfolge für das Projekt bestimmen
+* den Aufwand für die einzelnen Arbeitspakete schätzen
+* Ressourcen zuordnen
+* die zeitliche Planung des Projektes durchführen
+
+## Tasks
+In agilen Projekten werden Arbeitspakete viel kürzer definiert, sodass sie von einem Teammitglied innerhalb eines Tages abgearbeitet weren können. Solche kleinen Arbeitspakete werden auch oft **_Tasks_** genannt und nur von einer verantwortlichen Person durchgeführt. 
+
+Dies hat den Vorteil, dass ein Task entweder am Beginn des Tages den Status "Noch nicht begonnen" hat oder am Ende des Tages den Status "Fertig". das erleichttert die Fortschrittskontrolle und gibt zudem den Mitarbeitern ein gutes Gefühl, da sie am Ende des Tages etwas erledigt haben. 
+
+Ein Task kann auch als Timeboxing verwendet werden. Das bedeutet, dass er eine fixe Zeit erhält und in dieser Zeit, also in dieser Zeitbox, erledigt werden muss.
+
+## Techniken der Zeitplanung
+### Balkendiagramm / Gantt-Diagramm
+Diene nder Planung, Steuerung und Überwachung von Projekten. In ihnen kann abgelesen werden, wann Aktivitäten beginnen, wie lange sie dauern und wann sie enden.
+
+Auf der X-Achse ist die Zeitachse, welche den gesamten Zeitraum des Projektes umfasst. 
+
+Auf der Y-Achse ist eine Liste der durchzuführenden Arbeitspakte - früher durchzuführende Arbeiten stehen weiter oben auf der Liste.
+ 
+Meilensteine werden auch aufgenommen und haben eine Dauer von 0. 
+
+Zu jeder Aktivität wird jetzt ein Balken gezeichnet, welche eentsprechend der Zeitachse die geplante Dauer dieser Aktivität umfasst.
+
+Vorteil: einfache Handhabung und Anschaulichkeit bei kleinen Projekten. Bei großen Projekt werden sie durch einen Netzplan ersetzt.
+### Netzplantechnik
+Ist eine auf Ablaufstrukturen basierendes Verfahren zur Analyse, Beschreibung, Planung, Steuerung und Überwachung von Abläufen, wobei Zeit, Kosten, Ressourcen undw eitere Größen berücksichtigt werden können.
+
+Folgende Begriffe sind wichtig:
+* **PROJEKT**: Ein zu planendes Vorhaben, eine Aufgabe, ein Problem, einene Ablauf, etc.
+* **VORGANG**: zeitbeanspruchende Teilarbeit oder Handlung, die zwischen einem Anfangs- und Endzeitpunkt stattfindet.
+* **EREIGNIS**: haben keine zeitliche Ausdehnung - sie stellen Zeitpunkte dar, zu denen bestimmte teilvorgänge beendet sind oder andere beginnen müssen.
+
+Die Erstellung von Netzplänen erfolgt in zwei Phasen:
+* erste Phase: (Ausgangspunkt: fertige Projektstrukturplan):
+  Die Tätigkeit, die im Projekt durchzuführen sind, werden in einer Tätigkeitsliste erfasst. Damit verbunden sind das Zuordnen der Tätigkeiten zu den Aufgabenträgern sowie das Ermitteln der für jede Tätigkeit notwendigen Vorbedingungen. Die Ablaufstruktur enthält die logischen Beziehungen zwischen den einzelnen Tätigkeiten. Diese Phase wird vielfach auch als Strukturanalyse bezeichnet.
+* zweite Phase: Die für die Druchführung der Tätigkeiten erforderlichen Zeitspannen werden mit einer Zeitanalyse ermittelt. Afugrund es Zeitbedarfs werden die frühestmöglichen Anfangspunkte und die spätesterlaubten Endpunkte der Tätigkeiten(Vorgänge) sowie die Eintreffpunkte von Zuständen(Ereignissen), der kritische Weg und verschiedene Arten der Zeitreserven(Pufferzeiten) ermittelt
+
+>WICHTIG: Die Pufferzeit ist jene Zeitspanne, um die die Lage oder Dauer eines Vorgangs verändert werden kann, ohne dass sich dies auf die Projektdauer auswirkt.
+
+Unter kritischem Weg in einem Netzplan versteht man jenen Weg, auf dem Ereignisseso angeordnet sind, dass die gesamte Pufferzeit ein Minimum ist. Dieser kritische Weg ist eine Folge von Aktivitäten des Netzplans, deren Verschiebung oder Verzögerung sich auf das Projektende asuwirken würde.
+
+Verfahren der Netzplantechnik: 
+* CPM: Critical Path Method - Vorgangspfeilnetz
+* MPM: Metra Potential Method - Vorgangsknotennetz
+* PERT: Program Evaluation and Review Technique - Ereignisknotennetz
+
+MPM-Netzplan Knoten sind Vorgänge/Aktivitäten. Die Abfolge der Vorgänge wird durch verbindende Pfeile gebildet. 
+![Knoten](../../Media/Knoten_Darstellung.png)
+
+### Aktions-/Arbeitsplan
+Dies ist ein Instrument, das bei Arbeitssitzungen angewendet wird. Mit dem Aktionsplan können sehr schnell Aufgaben definiert, delegiert und terminiert werden.
+
+Sie strukturieren die Abschnitte zwischen Meilensteinen oder innerhalb von Arbeitspaketen.
+
+Folgende Infos werden festgehalten:
+* WAS muss getan werden?
+* WER ist verantwortlich?
+* BIS WANN liegt das Ergebnis vor?
