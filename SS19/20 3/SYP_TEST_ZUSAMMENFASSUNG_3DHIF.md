@@ -91,21 +91,6 @@ Es gibt 4 Arten von Projektorganisationsformen:
      * Kompetenzprobleme zwischen Projektleiter und funktionalem Vorgesetzten auftreten
      * Mitarbeiter können Projektleiter und funktionalen Vorgesetzten gegeneinander ausspielen, um sich Vorteile zu verschaffen
 
-4. projektorientierte Teilorganisation
-   * geeignet, wenn ein Projekt vorwiegend mit Mitarbeitern udn Ressourcen der eigenen Abteilung durchgeführt werden kann
-   * Projektleitung -> Unternehmensleitung => keine Änderung der Linienorganisation
-   * Einsatzbereiche: 
-     * Projekte mit fachlich eng abgestecktem Inhalt, wobei Bereichsübergreifende Zusammenarbeit nur gering Notwendig ist
-     * Projekte, bei welchen die Schnittstellen zwiscehn den Teilbereichen eindeutig definiert sind
-     * Projekte, welche aufgrund des erforderlichen Spezialwissens nur von einer bestimmten Abteilung durchgeführt werden können
-   * Vorteile: 
-     * geringer Organisationsaufwand
-     * eindeutige Kompetenzverhältnisse
-     * Möglichkeit zur Spezialisierung kann Produktivität & Qualität steigern
-   * Nachteile/Probleme: 
-     * bestehnde Konflikte/Probleme aus der Organisationsstruktur werden mitübernommen
-     * bei zu starkem Abteilungsdenken besteht die Gefahr, das Rad neu zu erfinden -> Chancen für bessere bereichsübergreifende Lösungen bleiben ungenutzt
-     * bei gleichzeitiger Durchführung von Projekten mit Matrix- oder Einflussorganisation werden die Projektmitarbeiter abteilungsinterne Projekte vorziehen
 ### Auswahl der geeigneten Organisationsform
 Unter anderem sind folgende Kriterien geeignet:
 * Dauer
@@ -122,8 +107,6 @@ Unter anderem sind folgende Kriterien geeignet:
 
 Liegen die Kriterien eher im niedrigen Bereich (also niedrige Dauer, wenig Kosten, ...), so ist das Einfluss-Projektmanagement die beste Wahl. Liegen die Kriterien eher hoch (lange Dauer, großer Umfang, hohe Komplexität, ...) so ist das reine Projektmanagement die beste Wahl. 
 Sind die Kriterien eher mittendrin, so ist das Matrix-Projektmanagement die beste Wahl.
-
-Die projektorientierte Teilorganisation hängt von den Kriterien nicht ab. Die Entscheidung für diese Organisationsform orientiert sich daran, ob der Projektumfang im Rahmen der Teilorganisation durchgeführt werden kann.
 
 ## Teambuilding
 ### Phasen der Teambildung nach Tuckman
